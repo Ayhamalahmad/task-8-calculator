@@ -14,7 +14,7 @@ Check out the live demo of the calculator app [here](https://ayhamalahmad.github
 
 - Perform addition, subtraction, multiplication, and division operations.
 - Ability to clear the current input or reset the calculator.
-- Evaluate the entered arithmetic expression and display the result.
+
 
 ## Usage
 
